@@ -33,7 +33,7 @@ Replace `<uri_to_image>` with the path to your input image.
 ## Example
 
 ```bash
-./commands/run.sh --url https://imgv3.fotor.com/images/blog-cover-image/How-to-Make-Text-Stand-Out-And-More-Readable.jpg
+./commands/run.sh https://imgv3.fotor.com/images/blog-cover-image/How-to-Make-Text-Stand-Out-And-More-Readable.jpg
 ```
 
 Expected output:
